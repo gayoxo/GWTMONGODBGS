@@ -1,0 +1,3 @@
+# Module nosqlmongogwtold
+# RPC service class, partial path of RPC policy file
+com.fdi.ucm.client.GreetingService, D4B198289A0528E4B1D8C10624373654.gwt.rpc
